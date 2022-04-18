@@ -5,4 +5,5 @@ I'm a hobbyist programmer, check my profile, sure you find something interesting
 [![codewars](https://www.codewars.com/users/GH0STsama/badges/large)](https://www.codewars.com/users/GH0STsama)
 
 ### GitHub Stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=gh0stsama&theme=onedark&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![GH0STsama GitHub stats](https://github-readme-stats.vercel.app/api?username=gh0stsama&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gh0stsama&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
